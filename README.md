@@ -5,7 +5,7 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
+1. <p><a href='https://github.com/SidhardhCR'></a>Sidhardh C R</p>
 2. Name [Embed perosnal github URL]
 ## Link to product walkthrough
 [link to video]
