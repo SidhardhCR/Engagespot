@@ -14,8 +14,10 @@ Long Description about project. This project do that. This project is awesome...
 
 
 ## Libraries used
-Library Name - Version
+engagespot
 ## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+npm i @engagespot/react-component
+import { Engagespot } from '@engagespot/react-component';
+
+<Engagespot apiKey="ENGAGESPOT_API_KEY" userId="unique-identifier-of-your-user" />;
+
