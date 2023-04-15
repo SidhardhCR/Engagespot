@@ -11,7 +11,7 @@ Long Description about project. This project do that. This project is awesome...
 
 ## How it Works ?
 1. It is a simple to do list website with engagespot push notification
-##Demo
+
 
 ## Libraries used
 Library Name - Version
