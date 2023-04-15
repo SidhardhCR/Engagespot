@@ -17,7 +17,7 @@ Long Description about project. This project do that. This project is awesome...
 engagespot
 ## How to configure
 npm i @engagespot/react-component
-import { Engagespot } from '@engagespot/react-component';
-
-<Engagespot apiKey="ENGAGESPOT_API_KEY" userId="unique-identifier-of-your-user" />;
+import { Engagespot } from '@engagespot/react-component'
+<br></br>
+<Engagespot apiKey="ENGAGESPOT_API_KEY" userId="unique-identifier-of-your-user" />
 
