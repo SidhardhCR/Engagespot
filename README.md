@@ -2,8 +2,8 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Todo-List With Engagespot
+
 ## Team members
 1. [Sidhardh C R](https://github.com/SidhardhCR)
 2. [Anjali Skaria](https://github.com/anjaliskaria)
